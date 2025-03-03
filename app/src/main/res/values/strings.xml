@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MLKitDemo</string>
+    <string name="use_cases">Use cases</string>
+    <string name="text_recognition">Text recognition</string>
+    <string name="from_image">From image</string>
+    <string name="from_camera">From camera</string>
+    <string name="image_recognition">Image recognition</string>
+    <string name="labeling">Labeling</string>
+    <string name="natural_language">Natural language</string>
+    <string name="language_recognition">Language recognition</string>
+    <string name="mlkit_demo">MLKit Demo</string>
+    <string name="image_labeling">Image labeling</string>
+    <string name="identify_language">Identify language</string>
+    <string name="text_recognition_from_camera">Text recognition from camera</string>
+    <string name="text_recognition_from_image">Text recognition from image</string>
+    <string name="text_translation_from_spanish_to_english">Text translation from spanish to english</string>
+    <string name="translate">Translate</string>
+    <string name="translation">Translation</string>
+    <string name="object_detection">Object detection</string>
+    <string name="home_text">This application displays the following functionalities of the MLKit libraries:</string>
+</resources>
